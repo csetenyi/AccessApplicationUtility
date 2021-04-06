@@ -1,0 +1,15 @@
+C:\Users\Csetényi Zoltán\source\repos\AccessApplicationUtility\AccessApplication\bin\Debug\net5.0\AccessApplication.deps.json
+C:\Users\Csetényi Zoltán\source\repos\AccessApplicationUtility\AccessApplication\bin\Debug\net5.0\AccessApplication.dll
+C:\Users\Csetényi Zoltán\source\repos\AccessApplicationUtility\AccessApplication\bin\Debug\net5.0\ref\AccessApplication.dll
+C:\Users\Csetényi Zoltán\source\repos\AccessApplicationUtility\AccessApplication\bin\Debug\net5.0\AccessApplication.pdb
+C:\Users\Csetényi Zoltán\source\repos\AccessApplicationUtility\AccessApplication\obj\Debug\net5.0\AccessApplication.csprojAssemblyReference.cache
+C:\Users\Csetényi Zoltán\source\repos\AccessApplicationUtility\AccessApplication\obj\Debug\net5.0\Interop.Microsoft.Office.Interop.Access.Dao.dll
+C:\Users\Csetényi Zoltán\source\repos\AccessApplicationUtility\AccessApplication\obj\Debug\net5.0\Interop.Microsoft.Office.Interop.Access.dll
+C:\Users\Csetényi Zoltán\source\repos\AccessApplicationUtility\AccessApplication\obj\Debug\net5.0\AccessApplication.csproj.ResolveComReference.cache
+C:\Users\Csetényi Zoltán\source\repos\AccessApplicationUtility\AccessApplication\obj\Debug\net5.0\AccessApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Csetényi Zoltán\source\repos\AccessApplicationUtility\AccessApplication\obj\Debug\net5.0\AccessApplication.AssemblyInfoInputs.cache
+C:\Users\Csetényi Zoltán\source\repos\AccessApplicationUtility\AccessApplication\obj\Debug\net5.0\AccessApplication.AssemblyInfo.cs
+C:\Users\Csetényi Zoltán\source\repos\AccessApplicationUtility\AccessApplication\obj\Debug\net5.0\AccessApplication.csproj.CoreCompileInputs.cache
+C:\Users\Csetényi Zoltán\source\repos\AccessApplicationUtility\AccessApplication\obj\Debug\net5.0\AccessApplication.dll
+C:\Users\Csetényi Zoltán\source\repos\AccessApplicationUtility\AccessApplication\obj\Debug\net5.0\ref\AccessApplication.dll
+C:\Users\Csetényi Zoltán\source\repos\AccessApplicationUtility\AccessApplication\obj\Debug\net5.0\AccessApplication.pdb
